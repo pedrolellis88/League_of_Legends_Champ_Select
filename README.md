@@ -36,13 +36,12 @@ Testes:
 
 Entrada:
 
-./champ_select ka
+./champ_select kal
 
 
 Saída:
 
-[Kai'Sa] [Kalista] [Karma] [Kassadin] [Katarina] [Kayle] [Kayn] [Kennen]
-
+[Akali] [Kalista] [Kayle]
 
 Entrada:
 
@@ -51,7 +50,7 @@ Entrada:
 
 Saída:
 
-[Viego] [Vi] [Viktor]
+[Viego] [Volibear]
 
 ENGLISH VERSION:
 
@@ -93,12 +92,12 @@ Output Examples
 
 Input:
 
-./champ_select ka
+./champ_select kal
 
 
 Output:
 
-[Kai'Sa] [Kalista] [Karma] [Kassadin] [Katarina] [Kayle] [Kayn] [Kennen]
+[Akali] [Kalista] [Kayle]
 
 
 Input:
@@ -108,4 +107,4 @@ Input:
 
 Output:
 
-[Viego] [Vi] [Viktor]
+[Viego] [Volibear]
